@@ -4,7 +4,7 @@
 
 ## Welcome! 👋
 
-You can view the project[here](https://dubemmbah.github.io/social-proof-section)
+You can view the project [here](https://dubemmbah.github.io/social-proof-section)
 
 
 
